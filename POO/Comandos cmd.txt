@@ -1,0 +1,7 @@
+dotnet new sln --name Project
+mkdir POO
+cd POO
+dotnet new console
+dotnet sln add POO/POO.csproj
+cd ..
+code .

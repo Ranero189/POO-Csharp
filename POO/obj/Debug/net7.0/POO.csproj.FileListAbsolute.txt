@@ -1,0 +1,15 @@
+C:\Users\henri\Documents\C#Projects\POO\bin\Debug\net7.0\POO.exe
+C:\Users\henri\Documents\C#Projects\POO\bin\Debug\net7.0\POO.deps.json
+C:\Users\henri\Documents\C#Projects\POO\bin\Debug\net7.0\POO.runtimeconfig.json
+C:\Users\henri\Documents\C#Projects\POO\bin\Debug\net7.0\POO.dll
+C:\Users\henri\Documents\C#Projects\POO\bin\Debug\net7.0\POO.pdb
+C:\Users\henri\Documents\C#Projects\POO\obj\Debug\net7.0\POO.csproj.AssemblyReference.cache
+C:\Users\henri\Documents\C#Projects\POO\obj\Debug\net7.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Documents\C#Projects\POO\obj\Debug\net7.0\POO.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\C#Projects\POO\obj\Debug\net7.0\POO.AssemblyInfo.cs
+C:\Users\henri\Documents\C#Projects\POO\obj\Debug\net7.0\POO.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\C#Projects\POO\obj\Debug\net7.0\POO.dll
+C:\Users\henri\Documents\C#Projects\POO\obj\Debug\net7.0\refint\POO.dll
+C:\Users\henri\Documents\C#Projects\POO\obj\Debug\net7.0\POO.pdb
+C:\Users\henri\Documents\C#Projects\POO\obj\Debug\net7.0\POO.genruntimeconfig.cache
+C:\Users\henri\Documents\C#Projects\POO\obj\Debug\net7.0\ref\POO.dll
