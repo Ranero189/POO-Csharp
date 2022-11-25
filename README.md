@@ -2,6 +2,4 @@
 
 Programação orientada a objeto
 
-Abstração - Encapsulamento - Herança - Polimorfismo - Classes Abstratas - Interfaces
-
--Manipulação de Arquivos
+Abstração - Encapsulamento - Herança - Polimorfismo - Classes Abstratas - Interfaces - Manipulação de Arquivos
